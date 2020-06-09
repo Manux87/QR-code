@@ -1,13 +1,2 @@
-## QR Reader PWA
+## QR Reader with PWA options
 
-### Demo
-
- **[https://flaeron.github.io/qr-reader-pwa](https://flaeron.github.io/qr-reader-pwa/)**
-
-### Install dependencies
-
-`npm install`
-
-### Dev
-
-`npm start`
